@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core01</string>
+    <string name="blow">叫</string>
+    <string name="sneeze">打喷嚏</string>
+    <string name="medication">药物治疗</string>
+    <string name="first_fragment_label">FIrstFragment</string>
+</resources>
